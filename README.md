@@ -8,8 +8,11 @@ Python, R, Julia, Mathematica, MATLAB, SQL
 
 ## Education
 
+### Degrees and Fellowships
+
 - MD
 - MMed (Board Certified in Surgery and Pediatric Surgery - SA)
+- Fellow of the Master Teacher Academy
 
 ## Work Experience
 
@@ -19,7 +22,7 @@ Python, R, Julia, Mathematica, MATLAB, SQL
 
 **Clinical Head** of Acute Care Surgery at Groote Schuur Hospital, University of Cape Town (2010-2021)
 
-## Courses that I teach
+## Courses that I teach at GWU
 
 | Course | Description | Level |
 |:---|:---|:---|
