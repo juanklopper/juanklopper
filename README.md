@@ -1,6 +1,8 @@
-# ASSOCIATE PROFESSOR IN BIOSTATISTICS AND BIOINFORMATICS
+# ASSOCIATE PROFESSOR 
 
-### Technical Skills: Python, R, Julia, Mathematica, MATLAB, R, SQL
+BIOSTATISTICS AND BIOINFORMATICS
+
+### Technical Skills: Python, R, Julia, Mathematica, MATLAB, SQL
 
 ## Education
 
