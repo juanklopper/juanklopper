@@ -2,15 +2,16 @@
 
 >THE GEORGE WASHINGTON UNIVERSITY
 
-## Technical Skills
-
-Python, R, Julia, Mathematica, MATLAB, SQL
-
 ## Degrees and Fellowships
 
 - MD
 - MMed (Board Certified in Surgery and Pediatric Surgery - SA)
 - Fellow of the Master Teacher Academy
+
+
+## Technical Skills
+
+Python R Julia Mathematica MATLAB SQL
 
 ## Work Experience
 
