@@ -1,16 +1,14 @@
-## Hi there 👋
+# ASSOCIATE PROFESSOR IN BIOSTATISTICS AND BIOINFORMATICS
 
-<!--
-**juanklopper/juanklopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills: Python, R, Julia, Mathematica, MATLAB, R, SQL
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MD
+- MMed (Board Certified in Surgery and Pediatric Surgery)
+
+## Work Experience
+
+**Associate Professor in the Milken Institute School of Public Health at The George Washington University** (2022-present)
+**Research Fellow at the School for Data Science and Computational Thinking at Stellenbosch University** (2021-2022)
+**Clinical Head of Acute Care Surgery at Groote Schuur Hospital, University of Cape Town** (2010-2021)
