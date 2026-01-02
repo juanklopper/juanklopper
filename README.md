@@ -6,9 +6,7 @@
 
 Python, R, Julia, Mathematica, MATLAB, SQL
 
-## Education
-
-### Degrees and Fellowships
+## Degrees and Fellowships
 
 - MD
 - MMed (Board Certified in Surgery and Pediatric Surgery - SA)
