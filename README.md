@@ -9,7 +9,7 @@ Python, R, Julia, Mathematica, MATLAB, SQL
 ## Education
 
 - MD
-- MMed (Board Certified in Surgery and Pediatric Surgery)
+- MMed (Board Certified in Surgery and Pediatric Surgery - SA)
 
 ## Work Experience
 
