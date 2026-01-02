@@ -9,8 +9,8 @@
 
 ## Work Experience
 
-**Associate Professor in the Milken Institute School of Public Health at The George Washington University** (2022-present)
+**Associate Professor** in the Milken Institute School of Public Health at The George Washington University (2022-present)
 
-**Research Fellow at the School for Data Science and Computational Thinking at Stellenbosch University** (2021-2022)
+**Research Fellow** at the School for Data Science and Computational Thinking at Stellenbosch University (2021-2022)
 
-**Clinical Head of Acute Care Surgery at Groote Schuur Hospital, University of Cape Town** (2010-2021)
+**Clinical Head** of Acute Care Surgery at Groote Schuur Hospital, University of Cape Town (2010-2021)
