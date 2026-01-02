@@ -2,7 +2,9 @@
 
 >THE GEORGE WASHINGTON UNIVERSITY
 
-### Technical Skills: Python, R, Julia, Mathematica, MATLAB, SQL
+## Technical Skills
+
+Python, R, Julia, Mathematica, MATLAB, SQL
 
 ## Education
 
